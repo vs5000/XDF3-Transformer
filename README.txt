@@ -3,7 +3,7 @@ XDF3 Transformer
 Ein Java-Tool zur Transformation von XDF3-Dateien mittels XSLT.
 
 Beschreibung
-XDF3 Transformer ermöglicht die Verarbeitung und Transformation von XDF3-Dateien (XML-Datenaustauschformat) unter Verwendung von XSLT-Stylesheets. Das Tool nutzt den leistungsfähigen Saxon-HE XSLT-Prozessor.
+XDF3 Transformer ermöglicht die Verarbeitung und Transformation von XDF3-Dateien (XML-Datenaustauschformat) unter Verwendung von XSLT-Stylesheets. Das Tool nutzt den Saxon-HE XSLT-Prozessor.
 Die XSLTs können auch ohne dieses Java-Tool verwendet werden und stehen hier zur Verfügung: https://github.com/vs5000/FIM-XSLT
 
 Features
