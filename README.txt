@@ -28,8 +28,8 @@ Windows (EXE)
 - Führen Sie die EXE-Datei aus
 
 Alle Betriebssysteme (JAR)
-- Laden Sie xdf3-transformer-0.7.5-jar-with-dependencies.jar herunter
-- Führen Sie aus mit: java -jar xdf3-transformer-0.7.5-jar-with-dependencies.jar
+- Laden Sie xdf3-transformer-0.7.x-jar-with-dependencies.jar herunter
+- Führen Sie aus mit: java -jar xdf3-transformer-0.7.x-jar-with-dependencies.jar
 
 Verwendete Technologien
 - Java 8 - Programmiersprache
